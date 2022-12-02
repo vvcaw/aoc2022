@@ -1,5 +1,3 @@
-import qualified Data.Text as T
-
 main :: IO ()
 main = interact solve
 
